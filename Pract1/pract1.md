@@ -4,4 +4,4 @@
 ## Задача 1
 ```cut -d: -f1 /etc/passwd |sort```
 
-![1qu.png](photos/1qu.png)
+![1qu.png](Photos/1qu.png)
