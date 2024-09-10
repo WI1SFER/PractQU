@@ -31,4 +31,4 @@ echo "| $text |"
 echo "$border"
 ```          
 
-![3qu.png](photos/3qu.png)
+![3qu.png](Photos/3qu.png)
