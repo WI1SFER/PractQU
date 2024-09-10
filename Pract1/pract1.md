@@ -14,37 +14,21 @@
 ## Задача 3
 ```
 #!/bin/bash
-# Проверяем, был ли передан аргумент
-!
-if [ $# -eq 0 ]; then
 
-    echo "Использование: $0 \"Ваш текст\""
-
-    exit 1
-
-fi
-
-# Получаем текст из аргумента
-
-text="$1"
+# Текст для баннера
+text="Hello from RTU MIREA!"
 
 # Вычисляем длину текста
-
 length=${#text}
 
 # Создаем верхнюю и нижнюю границы
-
 border=$(printf "%0.s-" $(seq 1 $((length + 2))))
-
 border="+$border+"
 
 # Выводим баннер
-
 echo "$border"
-
 echo "| $text |"
-
 echo "$border"
-```            
+```          
 
 ![3qu.png](photos/3qu.png)
