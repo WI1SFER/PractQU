@@ -15,3 +15,9 @@
 3. `git clone https://github.com/expressjs/express.git`
 4. `npm install`
 ### code preview in the file code/expressInfo.js
+
+1. `node express_dependencies.js`
+2. ![]
+3. `python matplotlib_dependencies.py`
+4. ![]
+### code preview in the file code/matplotlib_dependencies.py and code/express_dependencies.js
