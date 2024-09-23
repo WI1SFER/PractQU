@@ -16,6 +16,8 @@
 4. `npm install`
 ### code preview in the file code/expressInfo.js
 
+## Задача 3
+
 1. `node express_dependencies.js`
 2. ![]
 3. `python matplotlib_dependencies.py`
