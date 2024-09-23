@@ -19,9 +19,9 @@
 ## Задача 3
 
 1. `node express_dependencies.js`
-2. ![]
+2. ![3.5.png](Photo/3.5.png)
 3. `python matplotlib_dependencies.py`
-4. ![]
+4. ![3.5.1.png](Photo/3.5.1)
 ### code preview in the file code/matplotlib_dependencies.py and code/express_dependencies.js
 
 ## Задача 4
