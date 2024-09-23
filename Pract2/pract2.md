@@ -26,7 +26,7 @@
 
 ## Задача 4
 
-1. ![]
+1. ![4.png](Photo/4.png)
 ### code preview in the file code/happy_tickets.mzn
 
 ## Задача 5
