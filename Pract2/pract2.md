@@ -31,7 +31,7 @@
 
 ## Задача 5
 
-1. ![5.png](Photo/7.png)
+1. ![5.png](Photo/5.png)
 ### code preview in the file code/pack_dependencies.mzn
 
 ## Задача 6
