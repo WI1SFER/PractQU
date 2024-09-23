@@ -27,7 +27,7 @@
 ## Задача 4
 
 1. ![]
-### code preview in the file code/lucky_tickets.mzn
+### code preview in the file code/happy_tickets.mzn
 
 ## Задача 5
 
