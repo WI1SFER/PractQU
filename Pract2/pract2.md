@@ -36,6 +36,6 @@
 
 ## Задача 6
 
-1. ![]
+1. ![5.png](Photo/6.png)
 ### code preview in the file code/complex_pack_dependencies.mzn
 
