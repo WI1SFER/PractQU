@@ -2,7 +2,7 @@
 
 ## Задача 1
 
-1. ![1.jpg]()
+1. ![1.jpg](Photos/1.jpg)
 2. `git clone https://github.com/matplotlib/matplotlib.git`
 3. `cd matplotlib`'
 4. `python setup.py install`
